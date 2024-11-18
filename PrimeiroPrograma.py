@@ -13,3 +13,7 @@ endereco_rua = input('Digite o nome da sua rua: ')
 endereco_numero = int(input('Digite o número da sua casa: '))
 endereco_cidade = input('Digite a sua cidade: ')
 endereco = (endereco_rua, endereco_numero, endereco_cidade)
+
+email = input('Digite o seu email: ')
+telefone = input('Digite o seu telefone: ')
+contato = {'email': email, 'telefone': telefone}
