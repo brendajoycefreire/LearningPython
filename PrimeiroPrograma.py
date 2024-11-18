@@ -17,3 +17,11 @@ endereco = (endereco_rua, endereco_numero, endereco_cidade)
 email = input('Digite o seu email: ')
 telefone = input('Digite o seu telefone: ')
 contato = {'email': email, 'telefone': telefone}
+
+print('\nSegue as suas informações abaixo: ')
+print('nome: ', nome)
+print('idade: ', idade)
+print('altura: ', altura)
+print('hobbies: ', hobbies1)
+print('endereço: ', endereco)
+print('contato: ', contato)
