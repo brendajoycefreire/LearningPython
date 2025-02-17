@@ -1,3 +1,5 @@
+# condições em cadeia
+
 media = float(input('Digite a média: '))
 
 if media >= 6.0:
